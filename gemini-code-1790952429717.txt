@@ -1,0 +1,8 @@
+@echo off
+CHCP 65001 >nul
+title He Thong San Xuat Phim Tu Dong
+echo ===================================================
+echo Dang khoi dong He Thong San Xuat Phim Tu Dong...
+echo ===================================================
+python "20260930_San_Xuat_Phim_Tu_Dong.py"
+pause
